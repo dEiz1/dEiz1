@@ -1,16 +1,18 @@
 ## Hi there 👋
+Frontend Developer | Web Development Enthusiast
 
-<!--
-**dEiz1/dEiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create modern, responsive, and user-friendly websites.
+Currently improving my skills in JavaScript, UI/UX, and full-stack development.
 
-Here are some ideas to get you started:
+- Building real-world web projects
+- Learning new technologies every day
+- Focused on clean code and responsive design
+- Open to collaboration and interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+HTML • CSS • JavaScript • Git • GitHub
+
+Let's Connect
+
+Telegram: [(https://t.me/deiz1)]
