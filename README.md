@@ -11,7 +11,7 @@ Currently improving my skills in JavaScript, UI/UX, and full-stack development.
 
 Tech Stack
 
-HTML •Python• CSS • JavaScript • Git • GitHub
+Python • HTML • CSS • JavaScript • Git • GitHub
 
 Let's Connect
 
